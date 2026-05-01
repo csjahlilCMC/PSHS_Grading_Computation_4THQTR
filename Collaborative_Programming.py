@@ -51,7 +51,7 @@ else:
     print("Grade equivalent: 5.00")
     print("Status: FAILED. . .")    
 
-# --- VERIFICATION COMPLETE ! ---
+# --- GRADING COMPUTATION COMPLETED ! ---
 print("--- SCHOLAR SUMMARY ---")
 print("Current Grade:", Q4)
 print("Final Grade:", Q4_final)
