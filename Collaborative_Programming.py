@@ -14,7 +14,7 @@ Q3 = float(input("Enter your tentative grade for Quarter 3: "))
 
 Q2_final = (Q1 + 2 * Q2) / 3
 Q3_final = (Q2_final + 2 * Q3) / 3
-Q4_final = (Q3 + 2 * Q4) / 3
+Q4_final = (Q3_final + 2 * Q4) / 3
 
 # --- TASK: Determine the status of the scholar based on the final grade ---
 if Q4_final >= 96:
